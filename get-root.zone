@@ -1,0 +1,2 @@
+#/bin/sh
+wget2 -nc https://www.internic.net/domain/root.zone

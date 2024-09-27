@@ -1,0 +1,74 @@
+{
+	".": {
+		"b.root-servers.net.": {
+			"ssl_ver": "TLSv1.2",
+			"ssl_attr": [],
+			"error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)"
+		}
+	},
+	"arpa.": {
+		"b.ns.arpa.": {
+			"ssl_ver": "TLSv1.2",
+			"ssl_attr": [],
+			"error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)"
+		}
+	},
+	"cy.": {
+		"estia.ics.forth.gr.": {
+			"ssl_ver": "TLSv1.3",
+			"ssl_attr": [],
+			"error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)"
+		}
+	},
+	"gr.": {
+		"gr-m.ics.forth.gr.": {
+			"ssl_ver": "TLSv1.3",
+			"ssl_attr": [],
+			"error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)"
+		},
+		"gr-at.ics.forth.gr.": {
+			"ssl_ver": "TLSv1.3",
+			"ssl_attr": [],
+			"error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)"
+		},
+		"grdns.ics.forth.gr.": {
+			"ssl_ver": "TLSv1.3",
+			"ssl_attr": [],
+			"error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)"
+		},
+		"estia.ics.forth.gr.": {
+			"ssl_ver": "TLSv1.3",
+			"ssl_attr": [],
+			"error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)"
+		}
+	},
+	"kg.": {
+		"ns.kg.": {
+			"ssl_ver": "TLSv1.3",
+			"ssl_attr": [],
+			"error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)"
+		},
+		"ns2.kg.": {
+			"ssl_ver": "TLSv1.3",
+			"ssl_attr": [],
+			"error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)"
+		}
+	},
+	"xn--qxam.": {
+		"gr-at.ics.forth.gr.": {
+			"ssl_ver": "TLSv1.3",
+			"ssl_attr": [],
+			"error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)"
+		},
+		"grdns.ics.forth.gr.": {
+			"ssl_ver": "TLSv1.3",
+			"ssl_attr": [],
+			"error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)"
+		},
+		"estia.ics.forth.gr.": {
+			"ssl_ver": "TLSv1.3",
+			"ssl_attr": [],
+			"error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)"
+		}
+	}
+}
